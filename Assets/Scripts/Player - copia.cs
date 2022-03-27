@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public static Player _objeto;
+    public static Player _objeto; 
 
-    public int _vidas=3;
+    public int _vidas=3; 
     public bool _enPiso=false; 
     public bool _enMovimiento=false;
     public bool _inmune=false;
