@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
 {
     public static Player _objeto; 
 
-    public int _vidas=4; 
+    public int _vidas=4000000; 
     public bool _enPiso=true; 
     public bool _enMovimiento=false;
     public bool _inmune=true;
