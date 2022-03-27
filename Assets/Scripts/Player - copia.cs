@@ -19,7 +19,7 @@ public class Player : MonoBehaviour
     public float  _inmuneTiempo = 0.5f;
 
     public LayerMask _capaPiso;
-    public float _radio=0.3f;
+    public float _radio=0.4f;
     public float _distanciaRayo = 0.5f;
 
     private Rigidbody2D _rb;
