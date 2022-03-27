@@ -6,10 +6,10 @@ public class Player : MonoBehaviour
 {
     public static Player _objeto; 
 
-    public int _vidas=3; 
-    public bool _enPiso=false; 
+    public int _vidas=4; 
+    public bool _enPiso=true; 
     public bool _enMovimiento=false;
-    public bool _inmune=false;
+    public bool _inmune=true;
 
     public float _velocidad = 5f;
     public float  _fuerzaSalto= 3f;
